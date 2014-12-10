@@ -1,0 +1,21 @@
+Polyline:
+Point1: x1=47, y1=490
+Point2: x2=93, y2=287
+Point3: x3=160, y3=367
+Point4: x4=179, y4=157
+Point5: x5=218, y5=257
+Point6: x6=269, y6=169
+Point7: x7=324, y7=154
+Point8: x8=392, y8=480
+Point9: x9=400, y9=440
+Point10: x10=426, y10=10
+Point11: x1=479, y1=490
+Point12: x2=523, y2=287
+Point13: x3=555, y3=367
+Point14: x4=590, y4=157
+Point15: x5=600, y5=257
+Point16: x6=641, y6=169
+Point17: x7=692, y7=154
+Point18: x8=710, y8=480
+Point19: x9=735, y9=440
+Point20: x10=798, y10=10

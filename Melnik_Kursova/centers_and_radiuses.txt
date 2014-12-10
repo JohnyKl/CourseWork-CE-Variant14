@@ -1,0 +1,21 @@
+Circles:
+Circle1: radius=20, center: x1=45, y1=30
+Circle2: radius=10, center: x2=150, y2=250
+Circle3: radius=16, center: x3=300, y3=410
+Circle4: radius=30, center: x4=215, y4=389
+Circle5: radius=9, center: x5=117, y5=169
+Circle6: radius=15, center: x6=249, y6=100
+Circle7: radius=13, center: x7=179, y7=157
+Circle8: radius=29, center: x1=15, y1=30
+Circle9: radius=17, center: x2=365, y2=250
+Circle10: radius=26, center: x3=678, y3=410
+Circle11: radius=33, center: x4=713, y4=389
+Circle12: radius=11, center: x5=551, y5=169
+Circle13: radius=24, center: x6=432, y6=100
+Circle14: radius=29, center: x7=400, y7=157
+Circle15: radius=14, center: x1=498, y1=30
+Circle16: radius=25, center: x2=378, y2=150
+Circle17: radius=37, center: x3=200, y3=410
+Circle18: radius=32, center: x4=100, y4=389
+Circle19: radius=6, center: x5=13, y5=169
+Circle20: radius=31, center: x6=700, y6=100
